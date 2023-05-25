@@ -1,0 +1,130 @@
+[02-May-2023 17:01:16 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/index.php on line 3
+[02-May-2023 17:05:05 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/index.php on line 3
+[02-May-2023 17:05:14 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/index.php on line 3
+[02-May-2023 17:05:52 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/index.php on line 3
+[02-May-2023 17:06:05 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/register.php on line 3
+[02-May-2023 17:06:37 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/index.php on line 3
+[03-May-2023 17:48:30 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/index.php on line 3
+[03-May-2023 17:48:39 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/index.php on line 3
+[03-May-2023 17:54:11 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/index.php on line 3
+[03-May-2023 18:11:44 UTC] PHP Parse error:  syntax error, unexpected ',' in /home4/gstover1/public_html/tender/apply_tender.php on line 15
+[04-May-2023 00:32:40 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/index.php on line 3
+[04-May-2023 00:32:54 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/index.php on line 3
+[04-May-2023 00:33:01 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/index.php on line 3
+[04-May-2023 00:43:02 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/index.php on line 3
+[04-May-2023 00:43:04 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/register.php on line 3
+[04-May-2023 00:43:19 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/index.php on line 3
+[04-May-2023 01:02:18 UTC] PHP Warning:  file_get_contents(json/tender_review.json): failed to open stream: No such file or directory in /home4/gstover1/public_html/tender/blockchain/blockchain.php on line 30
+[04-May-2023 01:07:09 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/index.php on line 3
+[04-May-2023 01:09:32 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/index.php on line 3
+[04-May-2023 01:10:12 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home4/gstover1/public_html/tender/tenders.php on line 59
+[04-May-2023 01:14:10 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home4/gstover1/public_html/tender/see_tender_review.php:89
+Stack trace:
+#0 {main}
+  thrown in /home4/gstover1/public_html/tender/see_tender_review.php on line 89
+[04-May-2023 01:14:49 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home4/gstover1/public_html/tender/see_tender_review.php:90
+Stack trace:
+#0 {main}
+  thrown in /home4/gstover1/public_html/tender/see_tender_review.php on line 90
+[04-May-2023 01:31:49 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/index.php on line 3
+[04-May-2023 01:31:56 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/index.php on line 3
+[04-May-2023 01:40:23 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/index.php on line 3
+[04-May-2023 01:40:32 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/index.php on line 3
+[04-May-2023 01:42:01 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/index.php on line 3
+[04-May-2023 01:42:03 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/register.php on line 3
+[04-May-2023 01:42:12 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/index.php on line 3
+[04-May-2023 01:42:13 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/register.php on line 3
+[04-May-2023 01:42:23 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/index.php on line 3
+[04-May-2023 01:44:12 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/index.php on line 3
+[04-May-2023 01:45:22 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/index.php on line 3
+[04-May-2023 01:45:26 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/index.php on line 3
+[04-May-2023 01:45:28 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/index.php on line 3
+[04-May-2023 01:46:15 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/index.php on line 3
+[04-May-2023 01:46:36 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/index.php on line 3
+[04-May-2023 02:00:08 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/index.php on line 3
+[04-May-2023 04:32:01 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/index.php on line 3
+[04-May-2023 04:32:08 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/index.php on line 3
+[04-May-2023 04:32:19 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/index.php on line 3
+[04-May-2023 04:32:32 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/index.php on line 3
+[04-May-2023 05:15:02 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/index.php on line 3
+[04-May-2023 05:15:09 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/index.php on line 3
+[04-May-2023 07:00:15 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/index.php on line 3
+[04-May-2023 07:02:30 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/index.php on line 3
+[04-May-2023 07:02:32 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/register.php on line 3
+[04-May-2023 07:03:46 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/register.php on line 3
+[04-May-2023 07:05:25 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/index.php on line 3
+[04-May-2023 07:05:27 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/register.php on line 3
+[04-May-2023 07:05:39 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/index.php on line 3
+[04-May-2023 07:05:41 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/register.php on line 3
+[04-May-2023 07:06:03 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/index.php on line 3
+[04-May-2023 07:09:12 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/index.php on line 3
+[04-May-2023 07:10:37 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/index.php on line 3
+[04-May-2023 07:13:07 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/index.php on line 3
+[04-May-2023 07:14:37 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/index.php on line 3
+[04-May-2023 07:16:19 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/index.php on line 3
+[08-May-2023 17:26:01 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/index.php on line 3
+[08-May-2023 17:34:15 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/index.php on line 3
+[08-May-2023 17:36:33 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/index.php on line 3
+[08-May-2023 17:36:37 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/register.php on line 3
+[08-May-2023 17:36:42 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/register.php on line 3
+[08-May-2023 17:37:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/gstover1/public_html/tender/blockchain/new_blockchain.php:35) in /home4/gstover1/public_html/tender/submit_register.php on line 83
+[08-May-2023 17:37:59 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/register.php on line 3
+[08-May-2023 17:39:00 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/register.php on line 3
+[08-May-2023 17:39:19 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/index.php on line 3
+[08-May-2023 17:40:58 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/index.php on line 3
+[08-May-2023 17:42:54 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/index.php on line 3
+[08-May-2023 17:50:37 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/index.php on line 3
+[08-May-2023 17:50:40 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/register.php on line 3
+[08-May-2023 17:52:55 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/register.php on line 5
+[08-May-2023 17:57:33 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/index.php on line 3
+[08-May-2023 18:02:46 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/index.php on line 3
+[08-May-2023 18:03:03 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/index.php on line 3
+[08-May-2023 18:06:26 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/index.php on line 3
+[08-May-2023 18:09:35 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/index.php on line 3
+[08-May-2023 18:20:02 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/index.php on line 3
+[08-May-2023 18:20:10 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/index.php on line 3
+[08-May-2023 18:20:23 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/index.php on line 3
+[08-May-2023 18:21:27 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/index.php on line 3
+[16-May-2023 06:41:25 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home4/gstover1/public_html/tender/index.php on line 3
+[16-May-2023 06:41:37 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home4/gstover1/public_html/tender/index.php on line 3
+[16-May-2023 06:44:10 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home4/gstover1/public_html/tender/index.php on line 3
+[16-May-2023 06:44:14 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home4/gstover1/public_html/tender/register.php on line 5
+[16-May-2023 06:44:54 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home4/gstover1/public_html/tender/index.php on line 3
+[16-May-2023 06:44:58 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home4/gstover1/public_html/tender/register.php on line 5
+[16-May-2023 06:45:10 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home4/gstover1/public_html/tender/index.php on line 3
+[16-May-2023 06:46:31 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home4/gstover1/public_html/tender/index.php on line 3
+[16-May-2023 06:47:04 UTC] PHP Warning:  Undefined array key "tid" in /home4/gstover1/public_html/tender/tender_review.php on line 24
+[16-May-2023 06:47:04 UTC] PHP Warning:  Attempt to read property "id" on array in /home4/gstover1/public_html/tender/tender_review.php on line 31
+[16-May-2023 06:47:04 UTC] PHP Warning:  Attempt to read property "id" on array in /home4/gstover1/public_html/tender/tender_review.php on line 53
+[16-May-2023 06:47:04 UTC] PHP Warning:  Attempt to read property "name" on array in /home4/gstover1/public_html/tender/tender_review.php on line 61
+[16-May-2023 06:47:43 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home4/gstover1/public_html/tender/index.php on line 3
+[16-May-2023 06:49:02 UTC] PHP Warning:  Undefined array key "tid" in /home4/gstover1/public_html/tender/tender_review.php on line 24
+[16-May-2023 06:49:02 UTC] PHP Warning:  Attempt to read property "id" on array in /home4/gstover1/public_html/tender/tender_review.php on line 31
+[16-May-2023 06:49:02 UTC] PHP Warning:  Attempt to read property "id" on array in /home4/gstover1/public_html/tender/tender_review.php on line 31
+[16-May-2023 06:49:02 UTC] PHP Warning:  Attempt to read property "id" on array in /home4/gstover1/public_html/tender/tender_review.php on line 53
+[16-May-2023 06:49:02 UTC] PHP Warning:  Attempt to read property "name" on array in /home4/gstover1/public_html/tender/tender_review.php on line 61
+[16-May-2023 06:49:26 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home4/gstover1/public_html/tender/index.php on line 3
+[16-May-2023 06:50:43 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home4/gstover1/public_html/tender/index.php on line 3
+[16-May-2023 06:51:58 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home4/gstover1/public_html/tender/index.php on line 3
+[25-May-2023 00:47:13 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/index.php on line 3
+[25-May-2023 00:47:19 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/index.php on line 3
+[25-May-2023 00:52:38 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/index.php on line 3
+[25-May-2023 01:21:41 UTC] PHP Warning:  move_uploaded_file(): Filename cannot be empty in /home4/gstover1/public_html/tender/submit_tender.php on line 33
+[25-May-2023 01:21:41 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpCCGO9r' to '' in /home4/gstover1/public_html/tender/submit_tender.php on line 33
+[25-May-2023 01:24:23 UTC] PHP Warning:  move_uploaded_file(): Filename cannot be empty in /home4/gstover1/public_html/tender/submit_tender.php on line 33
+[25-May-2023 01:24:23 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpLtFiE1' to '' in /home4/gstover1/public_html/tender/submit_tender.php on line 33
+[25-May-2023 01:27:35 UTC] PHP Warning:  move_uploaded_file(): Filename cannot be empty in /home4/gstover1/public_html/tender/submit_tender.php on line 33
+[25-May-2023 01:27:35 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php0N9lfv' to '' in /home4/gstover1/public_html/tender/submit_tender.php on line 33
+[25-May-2023 01:32:18 UTC] PHP Warning:  move_uploaded_file(): Filename cannot be empty in /home4/gstover1/public_html/tender/submit_tender.php on line 33
+[25-May-2023 01:32:18 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpfUFFMX' to '' in /home4/gstover1/public_html/tender/submit_tender.php on line 33
+[25-May-2023 01:36:15 UTC] PHP Warning:  move_uploaded_file(): Filename cannot be empty in /home4/gstover1/public_html/tender/submit_tender.php on line 20
+[25-May-2023 01:36:15 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpYCDNpU' to '' in /home4/gstover1/public_html/tender/submit_tender.php on line 20
+[25-May-2023 01:39:28 UTC] PHP Warning:  move_uploaded_file(): Filename cannot be empty in /home4/gstover1/public_html/tender/submit_tender.php on line 20
+[25-May-2023 01:39:29 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php6SKJFJ' to '' in /home4/gstover1/public_html/tender/submit_tender.php on line 20
+[25-May-2023 01:40:26 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/index.php on line 3
+[25-May-2023 01:42:04 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/index.php on line 3
+[25-May-2023 01:42:48 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/index.php on line 3
+[25-May-2023 03:34:47 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/index.php on line 3
+[25-May-2023 03:34:53 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/index.php on line 3
+[25-May-2023 03:38:00 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/index.php on line 3
+[25-May-2023 03:40:15 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/gstover1/public_html/tender/index.php on line 3
